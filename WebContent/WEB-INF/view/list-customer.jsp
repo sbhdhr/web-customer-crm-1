@@ -25,6 +25,9 @@
 		<div id="container">
 	
 			<div id="content">
+			
+			
+				
 	
 				<!--  add our html table here -->
 	
@@ -47,6 +50,12 @@
 					</c:forEach>
 	
 				</table>
+				
+				
+				<!-- button to add customer -->
+				<input type="button" value="Add Customer"
+					onclick="window.location.href='showFormForAdd'; return false;"
+					class="add-button"/>
 	
 			</div>
 	

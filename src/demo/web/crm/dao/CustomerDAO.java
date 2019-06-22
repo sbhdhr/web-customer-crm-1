@@ -7,4 +7,6 @@ import demo.web.crm.entity.Customer;
 public interface CustomerDAO {
 
 	public List<Customer> getAllCustomers();
+
+	public void saveCustomer(Customer customer);
 }

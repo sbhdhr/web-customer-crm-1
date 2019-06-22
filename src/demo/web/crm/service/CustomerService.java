@@ -7,5 +7,7 @@ import demo.web.crm.entity.Customer;
 public interface CustomerService {
 
 	public List<Customer> getAllCustomers();
+
+	public void saveCustomer(Customer customer);
 	
 }
