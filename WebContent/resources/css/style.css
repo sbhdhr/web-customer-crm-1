@@ -86,6 +86,20 @@ td {
 	background: #0b9d97;
 }
 
+.search-button {
+	border: 1px solid #666;
+	border-radius: 5px;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 10px 15px;
+	color: white;
+	background:#e56d03;
+}
+
+.search-button:hover {
+	background: #ce8b50;
+}
+
 .update{
 	text-decoration: none;
 	color: darkblue;
