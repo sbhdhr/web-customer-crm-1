@@ -85,3 +85,12 @@ td {
 .add-button:hover {
 	background: #0b9d97;
 }
+
+.update{
+	text-decoration: none;
+	color: darkblue;
+}
+
+.update:hover{
+	font-weight: bold;
+}
