@@ -94,3 +94,12 @@ td {
 .update:hover{
 	font-weight: bold;
 }
+
+.delete{
+	text-decoration: none;
+	color: #a30000;
+}
+
+.delete:hover{
+	font-weight: bold;
+}
